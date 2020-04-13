@@ -3,7 +3,8 @@ package clinic.programming.training;
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
-import static org.junit.Assert.*;
+
+import static org.junit.Assert.assertTrue;
 
 public class ApplicationTest {
     private Application app;
