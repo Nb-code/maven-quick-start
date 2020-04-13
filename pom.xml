@@ -24,7 +24,7 @@
     <version>4.13</version>
 	<scope>test</scope>
   </dependency>
- </dependencies>
+</dependencies>
   
 <build>
     <plugins>
@@ -46,8 +46,7 @@
           <version>2.12</version>
         </plugin>
       </plugins>
-    </pluginManagement>
+     </pluginManagement>
 </build>
 
-  
 </project>

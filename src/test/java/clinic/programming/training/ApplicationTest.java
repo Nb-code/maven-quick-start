@@ -3,8 +3,12 @@ package clinic.programming.training;
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
+<<<<<<< HEAD
 
 import static org.junit.Assert.assertTrue;
+=======
+import static org.junit.Assert.*;
+>>>>>>> dfb6cb8eff4f8bdf85f8bde71038d66ecb6c2d6a
 
 public class ApplicationTest {
     private Application app;
